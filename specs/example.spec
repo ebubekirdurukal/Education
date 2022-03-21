@@ -22,3 +22,8 @@ Tags:Elektronik
 * Beğenilen bütün ürünler seçilir
 * Seçilen bütün ürünler silinir ve listenin boş olduğu kontrol edilir
 
+Git Deneme
+-------------------
+Tags:deneme
+
+* Elektronik seçeneğinin üzerinde durulur ve beyaz eşya seçilir
