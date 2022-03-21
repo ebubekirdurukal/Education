@@ -34,6 +34,7 @@ public class BaseTest {
 
 
     // bu kısım her senaryodan önce tekrar çalışır.
+    //deneme değişikliği
     @BeforeScenario
     public void setUp() throws Exception {
 
